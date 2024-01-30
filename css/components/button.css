@@ -1,0 +1,11 @@
+.btn-bleu {
+	background-color: white ;
+	color: #f1255c ;
+	width: fit-content;
+	padding: 16px 24px;
+	border-radius: 8px;
+	font-weight: bolder;
+	font-size: 18px;
+	font-family : 'League Spartan', sans-serif;
+	box-shadow: 2px 4px 4px #f1255c ;
+}

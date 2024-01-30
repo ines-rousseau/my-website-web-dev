@@ -1,0 +1,13 @@
+h1, h2, h3 {
+	font-family : 'League Spartan', sans-serif;
+	font-weight: bold;
+}
+
+#poster h2 {
+	font-family : 'League Spartan', sans-serif;
+	font-weight: bold;
+	font-size: 22px;
+	margin: 20px;
+
+
+}
